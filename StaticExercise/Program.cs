@@ -1,7 +1,7 @@
 ﻿using System;
 namespace StaticExercise
 {
-    public class Program
+    public static class Program
     {
         static void Main()
         {
